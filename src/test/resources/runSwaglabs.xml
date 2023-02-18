@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Swaglabs - Sort">
+
+	<listeners>
+		<listener class-name="commons.MethodListener" />
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+
+	<parameter name="appUrl" value="https://www.saucedemo.com/" />
+
+	<test name="Run on Firefox">
+		<parameter name="browser" value="firefox" />
+		<packages>
+			<package name="com.swaglabs.sort" />
+		</packages>
+	</test>
+	
+</suite>

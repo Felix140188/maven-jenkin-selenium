@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="WordPress - Admin">
+
+	<listeners>
+		<listener class-name="commons.MethodListener" />
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+
+	<parameter name="urlAdmin" value="http://localhost:8080/wp-admin" />
+	<parameter name="urlUser" value="http://localhost:8080" />
+
+	<test name="Run on Chrome">
+		<parameter name="browser" value="chrome" />
+		<packages>
+			<package name="com.wordpress.admin" />
+		</packages>
+	</test>
+	
+	<!-- <test name="Run on Firefox">
+		<parameter name="browser" value="firefox" />
+		<packages>
+			<package name="com.wordpress.admin" />
+		</packages>
+	</test>-->
+
+</suite>

@@ -1,0 +1,696 @@
+[2023-01-27 15:55:42,015] Register - Step 01: Navigate to 'Register' page
+[2023-01-27 15:55:43,162] Register - Step 02: Choose 'Female' radio button
+[2023-01-27 15:55:43,423] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-27 15:55:43,510] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-27 15:55:43,596] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-27 15:55:44,471] Register - Step 06:  Input to 'Email' textbox with value is: 'abc39747@mail.com'
+[2023-01-27 15:55:44,551] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-27 15:55:44,591] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 15:55:44,674] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-27 15:55:44,752] Register - Step 10: Click to 'Register' button
+[2023-01-27 15:55:45,416] Register - Step 11: Verify register success message is displayed
+[2023-01-27 15:55:45,497] Login - Step 01: Navigate to 'Login' page
+[2023-01-27 15:55:46,246] Login - Step 02:  Input to 'Email' textbox with value is: 'abc39747@mail.com'
+[2023-01-27 15:55:46,328] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 15:55:46,405] Login - Step 04: Click to 'Login' button
+[2023-01-27 15:55:47,029] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-27 15:55:47,099] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-27 15:55:47,469] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-27 15:55:47,540] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-27 15:55:47,890] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-27 15:55:47,952] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-27 15:55:48,013] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-27 15:55:48,075] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-27 15:55:48,140] OS name = Windows 11
+[2023-01-27 15:55:48,140] Driver instance name = firefoxdriver: firefox on windows (ee8b1a73-8b86-4175-ac6f-15dba0315b94)
+[2023-01-27 15:55:51,076] Register - Step 01: Navigate to 'Register' page
+[2023-01-27 15:55:52,105] Register - Step 02: Choose 'Female' radio button
+[2023-01-27 15:55:52,171] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-27 15:55:52,291] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-27 15:55:52,411] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-27 15:55:52,687] Register - Step 06:  Input to 'Email' textbox with value is: 'abc28999@mail.com'
+[2023-01-27 15:55:52,805] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-27 15:55:52,850] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 15:55:52,966] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-27 15:55:53,088] Register - Step 10: Click to 'Register' button
+[2023-01-27 15:55:53,754] Register - Step 11: Verify register success message is displayed
+[2023-01-27 15:55:53,816] Login - Step 01: Navigate to 'Login' page
+[2023-01-27 15:55:54,549] Login - Step 02:  Input to 'Email' textbox with value is: 'abc28999@mail.com'
+[2023-01-27 15:55:54,672] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 15:55:54,791] Login - Step 04: Click to 'Login' button
+[2023-01-27 15:55:55,413] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-27 15:55:55,480] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-27 15:55:55,842] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-27 15:55:55,902] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-27 15:55:56,252] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-27 15:55:56,318] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-27 15:55:56,377] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-27 15:55:56,442] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-27 15:55:56,503] OS name = Windows 11
+[2023-01-27 15:55:56,504] Driver instance name = chromedriver: chrome on windows (30811fec6e6179a36341575251959394)
+[2023-01-27 16:00:13,333] Register - Step 01: Navigate to 'Register' page
+[2023-01-27 16:00:14,447] Register - Step 02: Choose 'Female' radio button
+[2023-01-27 16:00:14,714] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-27 16:00:14,798] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-27 16:00:14,873] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-27 16:00:15,755] Register - Step 06:  Input to 'Email' textbox with value is: 'abc50732@mail.com'
+[2023-01-27 16:00:15,836] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-27 16:00:15,875] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:00:15,959] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-27 16:00:16,039] Register - Step 10: Click to 'Register' button
+[2023-01-27 16:00:16,770] Register - Step 11: Verify register success message is displayed
+[2023-01-27 16:00:16,872] Login - Step 01: Navigate to 'Login' page
+[2023-01-27 16:00:17,653] Login - Step 02:  Input to 'Email' textbox with value is: 'abc50732@mail.com'
+[2023-01-27 16:00:17,734] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:00:17,813] Login - Step 04: Click to 'Login' button
+[2023-01-27 16:00:18,449] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-27 16:00:18,506] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-27 16:00:18,877] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-27 16:00:18,947] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-27 16:00:19,328] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-27 16:00:19,395] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-27 16:00:19,452] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-27 16:00:19,514] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-27 16:00:19,579] OS name = Windows 11
+[2023-01-27 16:00:19,579] Driver instance name = firefoxdriver: firefox on windows (7128cc9f-cefd-49e3-9c5f-b839d90c0565)
+[2023-01-27 16:00:22,709] Register - Step 01: Navigate to 'Register' page
+[2023-01-27 16:00:23,239] Register - Step 02: Choose 'Female' radio button
+[2023-01-27 16:00:23,310] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-27 16:00:23,429] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-27 16:00:23,550] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-27 16:00:23,828] Register - Step 06:  Input to 'Email' textbox with value is: 'abc65855@mail.com'
+[2023-01-27 16:00:23,946] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-27 16:00:23,993] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:00:24,108] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-27 16:00:24,230] Register - Step 10: Click to 'Register' button
+[2023-01-27 16:00:24,939] Register - Step 11: Verify register success message is displayed
+[2023-01-27 16:00:24,990] Login - Step 01: Navigate to 'Login' page
+[2023-01-27 16:00:25,757] Login - Step 02:  Input to 'Email' textbox with value is: 'abc65855@mail.com'
+[2023-01-27 16:00:25,877] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:00:25,997] Login - Step 04: Click to 'Login' button
+[2023-01-27 16:00:26,663] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-27 16:00:26,721] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-27 16:00:27,097] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-27 16:00:27,161] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-27 16:00:27,550] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-27 16:00:27,608] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-27 16:00:27,667] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-27 16:00:27,731] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-27 16:00:27,792] OS name = Windows 11
+[2023-01-27 16:00:27,792] Driver instance name = chromedriver: chrome on windows (b6b8b34a3d7808f8ae289c7449cc9872)
+[2023-01-27 16:02:56,482] Register - Step 01: Navigate to 'Register' page
+[2023-01-27 16:02:57,609] Register - Step 02: Choose 'Female' radio button
+[2023-01-27 16:02:57,870] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-27 16:02:57,956] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-27 16:02:58,046] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-27 16:02:58,927] Register - Step 06:  Input to 'Email' textbox with value is: 'abc43543@mail.com'
+[2023-01-27 16:02:59,007] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-27 16:02:59,045] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:02:59,131] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-27 16:02:59,208] Register - Step 10: Click to 'Register' button
+[2023-01-27 16:02:59,919] Register - Step 11: Verify register success message is displayed
+[2023-01-27 16:03:00,032] Login - Step 01: Navigate to 'Login' page
+[2023-01-27 16:03:00,787] Login - Step 02:  Input to 'Email' textbox with value is: 'abc43543@mail.com'
+[2023-01-27 16:03:00,863] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:03:00,939] Login - Step 04: Click to 'Login' button
+[2023-01-27 16:03:01,669] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-27 16:03:01,747] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-27 16:03:02,145] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-27 16:03:02,216] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-27 16:03:02,596] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-27 16:03:02,663] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-27 16:03:02,723] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-27 16:03:02,785] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-27 16:03:02,850] OS name = Windows 11
+[2023-01-27 16:03:02,850] Driver instance name = firefoxdriver: firefox on windows (50d17102-a725-4d10-8147-aa9e897258a0)
+[2023-01-27 16:03:06,045] Register - Step 01: Navigate to 'Register' page
+[2023-01-27 16:03:07,102] Register - Step 02: Choose 'Female' radio button
+[2023-01-27 16:03:07,177] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-27 16:03:07,295] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-27 16:03:07,403] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-27 16:03:07,698] Register - Step 06:  Input to 'Email' textbox with value is: 'abc8034@mail.com'
+[2023-01-27 16:03:07,812] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-27 16:03:07,862] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:03:07,979] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-27 16:03:08,087] Register - Step 10: Click to 'Register' button
+[2023-01-27 16:03:08,732] Register - Step 11: Verify register success message is displayed
+[2023-01-27 16:03:08,781] Login - Step 01: Navigate to 'Login' page
+[2023-01-27 16:03:09,536] Login - Step 02:  Input to 'Email' textbox with value is: 'abc8034@mail.com'
+[2023-01-27 16:03:09,653] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:03:09,772] Login - Step 04: Click to 'Login' button
+[2023-01-27 16:03:10,411] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-27 16:03:10,475] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-27 16:03:10,841] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-27 16:03:10,912] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-27 16:03:11,277] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-27 16:03:11,344] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-27 16:03:11,404] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-27 16:03:11,465] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-27 16:03:11,529] OS name = Windows 11
+[2023-01-27 16:03:11,529] Driver instance name = chromedriver: chrome on windows (f693cc1248176114efc8515c74bc4478)
+[2023-01-27 16:11:22,629] Register - Step 01: Navigate to 'Register' page
+[2023-01-27 16:11:23,711] Register - Step 02: Choose 'Female' radio button
+[2023-01-27 16:11:24,009] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-27 16:11:24,108] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-27 16:11:24,183] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-27 16:11:25,065] Register - Step 06:  Input to 'Email' textbox with value is: 'abc15231@mail.com'
+[2023-01-27 16:11:25,143] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-27 16:11:25,183] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:11:25,265] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-27 16:11:25,343] Register - Step 10: Click to 'Register' button
+[2023-01-27 16:11:26,671] Register - Step 11: Verify register success message is displayed
+[2023-01-27 16:11:26,789] Login - Step 01: Navigate to 'Login' page
+[2023-01-27 16:11:27,735] Login - Step 02:  Input to 'Email' textbox with value is: 'abc15231@mail.com'
+[2023-01-27 16:11:27,821] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:11:27,897] Login - Step 04: Click to 'Login' button
+[2023-01-27 16:11:28,798] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-27 16:11:28,870] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-27 16:11:29,376] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-27 16:11:29,446] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-27 16:11:30,026] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-27 16:11:30,094] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-27 16:11:30,154] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-27 16:11:30,217] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-27 16:11:30,281] OS name = Windows 11
+[2023-01-27 16:11:30,282] Driver instance name = firefoxdriver: firefox on windows (8be61e4c-7d14-4745-ac61-16f57048a653)
+[2023-01-27 16:11:33,518] Register - Step 01: Navigate to 'Register' page
+[2023-01-27 16:11:34,576] Register - Step 02: Choose 'Female' radio button
+[2023-01-27 16:11:34,655] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-27 16:11:34,773] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-27 16:11:34,895] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-27 16:11:35,189] Register - Step 06:  Input to 'Email' textbox with value is: 'abc15989@mail.com'
+[2023-01-27 16:11:35,306] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-27 16:11:35,356] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:11:35,468] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-27 16:11:35,574] Register - Step 10: Click to 'Register' button
+[2023-01-27 16:11:36,205] Register - Step 11: Verify register success message is displayed
+[2023-01-27 16:11:36,259] Login - Step 01: Navigate to 'Login' page
+[2023-01-27 16:11:36,996] Login - Step 02:  Input to 'Email' textbox with value is: 'abc15989@mail.com'
+[2023-01-27 16:11:37,114] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:11:37,233] Login - Step 04: Click to 'Login' button
+[2023-01-27 16:11:37,868] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-27 16:11:37,925] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-27 16:11:38,315] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-27 16:11:38,377] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-27 16:11:38,724] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-27 16:11:38,777] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-27 16:11:38,838] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-27 16:11:38,900] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-27 16:11:38,961] OS name = Windows 11
+[2023-01-27 16:11:38,961] Driver instance name = chromedriver: chrome on windows (2db70de00d3c9b93d2f48b37b47cbf9f)
+[2023-01-27 16:19:31,916] Register - Step 01: Navigate to 'Register' page
+[2023-01-27 16:19:32,973] Register - Step 02: Choose 'Female' radio button
+[2023-01-27 16:19:33,245] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-27 16:19:33,329] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-27 16:19:33,406] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-27 16:19:34,326] Register - Step 06:  Input to 'Email' textbox with value is: 'abc75652@mail.com'
+[2023-01-27 16:19:34,412] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-27 16:19:34,452] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:19:34,535] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-27 16:19:34,614] Register - Step 10: Click to 'Register' button
+[2023-01-27 16:19:35,254] Register - Step 11: Verify register success message is displayed
+[2023-01-27 16:19:35,368] Login - Step 01: Navigate to 'Login' page
+[2023-01-27 16:19:36,089] Login - Step 02:  Input to 'Email' textbox with value is: 'abc75652@mail.com'
+[2023-01-27 16:19:36,172] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:19:36,247] Login - Step 04: Click to 'Login' button
+[2023-01-27 16:19:36,858] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-27 16:19:36,929] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-27 16:19:37,267] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-27 16:19:37,332] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-27 16:19:37,672] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-27 16:19:37,733] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-27 16:19:37,791] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-27 16:19:37,853] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-27 16:19:37,918] OS name = Windows 11
+[2023-01-27 16:19:37,918] Driver instance name = firefoxdriver: firefox on windows (0550245a-f767-486f-b007-07caa1a58f4b)
+[2023-01-27 16:19:41,226] Register - Step 01: Navigate to 'Register' page
+[2023-01-27 16:19:42,314] Register - Step 02: Choose 'Female' radio button
+[2023-01-27 16:19:42,387] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-27 16:19:42,506] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-27 16:19:42,629] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-27 16:19:42,910] Register - Step 06:  Input to 'Email' textbox with value is: 'abc40326@mail.com'
+[2023-01-27 16:19:43,028] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-27 16:19:43,075] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:19:43,193] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-27 16:19:43,313] Register - Step 10: Click to 'Register' button
+[2023-01-27 16:19:44,039] Register - Step 11: Verify register success message is displayed
+[2023-01-27 16:19:44,089] Login - Step 01: Navigate to 'Login' page
+[2023-01-27 16:19:44,850] Login - Step 02:  Input to 'Email' textbox with value is: 'abc40326@mail.com'
+[2023-01-27 16:19:44,973] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:19:45,093] Login - Step 04: Click to 'Login' button
+[2023-01-27 16:19:45,814] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-27 16:19:45,879] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-27 16:19:46,243] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-27 16:19:46,302] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-27 16:19:46,670] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-27 16:19:46,732] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-27 16:19:46,792] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-27 16:19:46,855] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-27 16:19:46,916] OS name = Windows 11
+[2023-01-27 16:19:46,916] Driver instance name = chromedriver: chrome on windows (c200fe11762b43515baff6fcac93de52)
+[2023-01-27 16:24:59,542] Register - Step 01: Navigate to 'Register' page
+[2023-01-27 16:25:00,609] Register - Step 02: Choose 'Female' radio button
+[2023-01-27 16:25:00,880] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-27 16:25:00,963] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-27 16:25:01,035] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-27 16:25:01,918] Register - Step 06:  Input to 'Email' textbox with value is: 'abc69313@mail.com'
+[2023-01-27 16:25:01,996] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-27 16:25:02,036] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:25:02,118] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-27 16:25:02,195] Register - Step 10: Click to 'Register' button
+[2023-01-27 16:25:02,865] Register - Step 11: Verify register success message is displayed
+[2023-01-27 16:25:02,961] Login - Step 01: Navigate to 'Login' page
+[2023-01-27 16:26:42,936] Register - Step 01: Navigate to 'Register' page
+[2023-01-27 16:26:43,992] Register - Step 02: Choose 'Female' radio button
+[2023-01-27 16:26:44,264] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-27 16:26:44,350] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-27 16:26:44,439] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-27 16:26:45,318] Register - Step 06:  Input to 'Email' textbox with value is: 'abc79077@mail.com'
+[2023-01-27 16:26:45,398] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-27 16:26:45,439] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:26:45,520] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-27 16:26:45,598] Register - Step 10: Click to 'Register' button
+[2023-01-27 16:26:46,285] Register - Step 11: Verify register success message is displayed
+[2023-01-27 16:26:46,401] Login - Step 01: Navigate to 'Login' page
+[2023-01-27 16:26:47,156] Login - Step 02:  Input to 'Email' textbox with value is: 'abc79077@mail.com'
+[2023-01-27 16:26:47,235] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:26:47,311] Login - Step 04: Click to 'Login' button
+[2023-01-27 16:26:47,961] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-27 16:26:48,024] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-27 16:26:48,379] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-27 16:26:48,447] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-27 16:26:48,791] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-27 16:26:48,860] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-27 16:26:48,919] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-27 16:26:48,981] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-27 16:26:49,047] OS name = Windows 11
+[2023-01-27 16:26:49,047] Driver instance name = firefoxdriver: firefox on windows (643ad10d-dde7-4045-b88d-6554dffead09)
+[2023-01-27 16:26:52,018] Register - Step 01: Navigate to 'Register' page
+[2023-01-27 16:26:53,172] Register - Step 02: Choose 'Female' radio button
+[2023-01-27 16:26:53,253] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-27 16:26:53,377] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-27 16:26:53,496] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-27 16:26:53,779] Register - Step 06:  Input to 'Email' textbox with value is: 'abc18531@mail.com'
+[2023-01-27 16:26:53,913] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-27 16:26:53,959] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:26:54,077] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-27 16:26:54,186] Register - Step 10: Click to 'Register' button
+[2023-01-27 16:26:54,862] Register - Step 11: Verify register success message is displayed
+[2023-01-27 16:26:54,912] Login - Step 01: Navigate to 'Login' page
+[2023-01-27 16:26:55,640] Login - Step 02:  Input to 'Email' textbox with value is: 'abc18531@mail.com'
+[2023-01-27 16:26:55,755] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:26:55,873] Login - Step 04: Click to 'Login' button
+[2023-01-27 16:26:56,529] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-27 16:26:56,593] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-27 16:26:56,963] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-27 16:26:57,031] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-27 16:26:57,406] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-27 16:26:57,462] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-27 16:26:57,523] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-27 16:26:57,586] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-27 16:26:57,647] OS name = Windows 11
+[2023-01-27 16:26:57,648] Driver instance name = chromedriver: chrome on windows (4fed1e928c5f91e226c54d9f6a10786a)
+[2023-01-27 16:37:29,490] Register - Step 01: Navigate to 'Register' page
+[2023-01-27 16:37:30,476] Register - Step 02: Choose 'Female' radio button
+[2023-01-27 16:37:30,747] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-27 16:37:30,827] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-27 16:37:30,902] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-27 16:37:31,781] Register - Step 06:  Input to 'Email' textbox with value is: 'abc68805@mail.com'
+[2023-01-27 16:37:31,860] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-27 16:37:31,900] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:37:31,983] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-27 16:37:32,058] Register - Step 10: Click to 'Register' button
+[2023-01-27 16:37:32,727] Register - Step 11: Verify register success message is displayed
+[2023-01-27 16:37:32,828] Login - Step 01: Navigate to 'Login' page
+[2023-01-27 16:37:33,560] Login - Step 02:  Input to 'Email' textbox with value is: 'abc68805@mail.com'
+[2023-01-27 16:37:33,649] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 16:37:33,725] Login - Step 04: Click to 'Login' button
+[2023-01-27 16:37:34,321] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-27 16:37:34,392] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-27 16:37:34,737] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-27 16:37:34,800] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-27 16:37:35,143] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-27 16:37:35,200] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-27 16:37:35,260] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-27 16:37:35,322] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-27 16:37:35,387] OS name = Windows 11
+[2023-01-27 16:37:35,387] Driver instance name = firefoxdriver: firefox on windows (962010db-5079-495f-8cf0-a05784abe19b)
+[2023-01-27 17:19:31,964] Register - Step 01: Navigate to 'Register' page
+[2023-01-27 17:19:33,092] Register - Step 02: Choose 'Female' radio button
+[2023-01-27 17:19:33,362] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-27 17:19:33,447] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-27 17:19:33,536] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-27 17:19:34,413] Register - Step 06:  Input to 'Email' textbox with value is: 'abc29225@mail.com'
+[2023-01-27 17:19:34,496] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-27 17:19:34,535] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 17:19:34,617] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-27 17:19:34,695] Register - Step 10: Click to 'Register' button
+[2023-01-27 17:19:35,399] Register - Step 11: Verify register success message is displayed
+[2023-01-27 17:19:35,495] Login - Step 01: Navigate to 'Login' page
+[2023-01-27 17:19:36,291] Login - Step 02:  Input to 'Email' textbox with value is: 'abc29225@mail.com'
+[2023-01-27 17:19:36,374] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 17:19:36,451] Login - Step 04: Click to 'Login' button
+[2023-01-27 17:19:37,133] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-27 17:19:37,208] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-27 17:19:37,579] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-27 17:19:37,646] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-27 17:19:38,007] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-27 17:19:38,072] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-27 17:19:38,132] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-27 17:19:38,194] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-27 17:19:38,259] OS name = Windows 11
+[2023-01-27 17:19:38,259] Driver instance name = firefoxdriver: firefox on windows (a31d0729-46f4-4e57-b333-19070a0f89c1)
+[2023-01-27 19:51:24,791] Register - Step 01: Navigate to 'Register' page
+[2023-01-27 19:51:25,999] Register - Step 02: Choose 'Female' radio button
+[2023-01-27 19:51:26,306] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-27 19:51:26,425] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-27 19:51:26,547] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-27 19:51:27,553] Register - Step 06:  Input to 'Email' textbox with value is: 'abc6380@mail.com'
+[2023-01-27 19:51:27,646] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-27 19:51:27,707] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 19:51:27,811] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-27 19:51:27,902] Register - Step 10: Click to 'Register' button
+[2023-01-27 19:51:29,001] Register - Step 11: Verify register success message is displayed
+[2023-01-27 19:51:29,188] Login - Step 01: Navigate to 'Login' page
+[2023-01-27 19:51:30,189] Login - Step 02:  Input to 'Email' textbox with value is: 'abc6380@mail.com'
+[2023-01-27 19:51:30,309] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 19:51:30,412] Login - Step 04: Click to 'Login' button
+[2023-01-27 19:51:31,294] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-27 19:51:31,416] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-27 19:51:31,913] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-27 19:51:32,020] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-27 19:51:32,495] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-27 19:51:32,589] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-27 19:51:32,664] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-27 19:51:32,724] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-27 19:51:32,808] OS name = Windows 11
+[2023-01-27 19:51:32,808] Driver instance name = firefoxdriver: firefox on windows (cde50e8c-29dd-44b9-80e8-0b735366e40b)
+[2023-01-27 20:20:47,303] Register - Step 02: Choose 'Female' radio button
+[2023-01-27 20:20:47,616] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-27 20:20:47,733] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-27 20:20:47,842] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-27 20:20:48,830] Register - Step 06:  Input to 'Email' textbox with value is: 'abc7409@mail.com'
+[2023-01-27 20:20:48,964] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-27 20:20:49,011] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 20:20:49,119] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-27 20:20:49,209] Register - Step 10: Click to 'Register' button
+[2023-01-27 20:20:50,040] Register - Step 11: Verify register success message is displayed
+[2023-01-27 20:20:50,224] Login - Step 01: Navigate to 'Login' page
+[2023-01-27 20:20:51,161] Login - Step 02:  Input to 'Email' textbox with value is: 'abc7409@mail.com'
+[2023-01-27 20:20:51,280] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 20:20:51,369] Login - Step 04: Click to 'Login' button
+[2023-01-27 20:20:52,205] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-27 20:20:52,298] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-27 20:20:52,749] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-27 20:20:52,857] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-27 20:20:53,273] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-27 20:20:53,352] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-27 20:20:53,425] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-27 20:20:53,506] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-27 20:20:53,572] OS name = Windows 11
+[2023-01-27 20:20:53,572] Driver instance name = firefoxdriver: firefox on windows (21fc11be-0f87-4bf0-960d-81425b97ad18)
+[2023-01-27 20:23:54,336] Register - Step 02: Choose 'Female' radio button
+[2023-01-27 20:23:54,657] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-27 20:23:54,766] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-27 20:23:54,877] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-27 20:23:55,838] Register - Step 06:  Input to 'Email' textbox with value is: 'abc93346@mail.com'
+[2023-01-27 20:23:55,940] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-27 20:23:56,003] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 20:23:56,088] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-27 20:23:56,197] Register - Step 10: Click to 'Register' button
+[2023-01-27 20:23:57,150] Register - Step 11: Verify register success message is displayed
+[2023-01-27 20:23:57,340] Login - Step 01: Navigate to 'Login' page
+[2023-01-27 20:23:58,349] Login - Step 02:  Input to 'Email' textbox with value is: 'abc93346@mail.com'
+[2023-01-27 20:23:58,452] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 20:23:58,558] Login - Step 04: Click to 'Login' button
+[2023-01-27 20:23:59,366] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-27 20:23:59,472] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-27 20:23:59,882] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-27 20:23:59,971] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-27 20:24:00,381] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-27 20:24:00,664] OS name = Windows 11
+[2023-01-27 20:24:00,665] Driver instance name = firefoxdriver: firefox on windows (ea656d18-0499-426c-a2c9-9df6062b0aa3)
+[2023-01-27 21:12:19,338] Register - Step 02: Choose 'Female' radio button
+[2023-01-27 21:12:19,598] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-27 21:12:19,683] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-27 21:12:19,761] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-27 21:12:20,642] Register - Step 06:  Input to 'Email' textbox with value is: 'abc25120@mail.com'
+[2023-01-27 21:12:20,724] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-27 21:12:20,764] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 21:12:20,846] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-27 21:12:20,925] Register - Step 10: Click to 'Register' button
+[2023-01-27 21:12:21,665] Register - Step 11: Verify register success message is displayed
+[2023-01-27 21:12:21,768] Login - Step 01: Navigate to 'Login' page
+[2023-01-27 21:12:22,525] Login - Step 02:  Input to 'Email' textbox with value is: 'abc25120@mail.com'
+[2023-01-27 21:12:22,609] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 21:12:22,685] Login - Step 04: Click to 'Login' button
+[2023-01-27 21:12:23,561] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-27 21:12:23,628] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-27 21:12:23,997] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-27 21:12:24,066] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-27 21:12:24,427] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-27 21:12:24,493] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-27 21:12:24,551] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-27 21:12:24,613] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-27 21:12:24,678] OS name = Windows 11
+[2023-01-27 21:12:24,678] Driver instance name = firefoxdriver: firefox on windows (eccde260-e79c-48af-ad5c-3ca7855af0be)
+[2023-01-27 21:21:17,154] Register - Step 02: Choose 'Female' radio button
+[2023-01-27 21:21:17,418] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-27 21:21:17,505] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-27 21:21:17,586] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-27 21:21:18,484] Register - Step 06:  Input to 'Email' textbox with value is: 'abc28354@mail.com'
+[2023-01-27 21:21:18,566] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-27 21:21:18,608] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 21:21:18,688] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-27 21:21:18,764] Register - Step 10: Click to 'Register' button
+[2023-01-27 21:21:19,489] Register - Step 11: Verify register success message is displayed
+[2023-01-27 21:21:19,603] Login - Step 01: Navigate to 'Login' page
+[2023-01-27 21:21:20,366] Login - Step 02:  Input to 'Email' textbox with value is: 'abc28354@mail.com'
+[2023-01-27 21:21:20,451] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-27 21:21:20,527] Login - Step 04: Click to 'Login' button
+[2023-01-27 21:21:21,148] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-27 21:21:21,211] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-27 21:21:21,587] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-27 21:21:21,652] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-27 21:21:22,013] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-27 21:21:22,085] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-27 21:21:22,144] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-27 21:21:22,207] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-27 21:21:22,271] OS name = Windows 11
+[2023-01-27 21:21:22,271] Driver instance name = firefoxdriver: firefox on windows (9da940b4-e401-426e-a6a1-fef0b566bcba)
+[2023-01-28 22:37:38,385] Register - Step 02: Choose 'Female' radio button
+[2023-01-28 22:37:38,651] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-28 22:37:38,745] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-28 22:37:38,830] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-28 22:37:39,726] Register - Step 06:  Input to 'Email' textbox with value is: 'abc74889@mail.com'
+[2023-01-28 22:37:39,809] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-28 22:37:39,851] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-28 22:37:39,935] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-28 22:37:40,012] Register - Step 10: Click to 'Register' button
+[2023-01-28 22:37:41,065] Register - Step 11: Verify register success message is displayed
+[2023-01-28 22:37:41,165] Login - Step 01: Navigate to 'Login' page
+[2023-01-28 22:37:48,693] Login - Step 02:  Input to 'Email' textbox with value is: 'abc74889@mail.com'
+[2023-01-28 22:37:48,781] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-28 22:37:48,859] Login - Step 04: Click to 'Login' button
+[2023-01-28 22:37:49,738] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-28 22:37:49,807] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-28 22:37:50,904] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-28 22:37:50,971] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-28 22:37:51,830] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-28 22:37:51,896] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-28 22:37:51,955] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-28 22:37:52,019] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-28 22:37:52,101] OS name = Windows 11
+[2023-01-28 22:37:52,101] Driver instance name = firefoxdriver: firefox on windows (108d9bb7-154b-4484-9264-d1ffd587305e)
+[2023-01-28 22:40:28,324] Register - Step 02: Choose 'Female' radio button
+[2023-01-28 22:40:28,404] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-28 22:40:28,527] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-28 22:40:28,646] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-28 22:40:28,989] Register - Step 06:  Input to 'Email' textbox with value is: 'abc62498@mail.com'
+[2023-01-28 22:40:29,124] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-28 22:40:29,170] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-28 22:40:29,287] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-28 22:40:29,408] Register - Step 10: Click to 'Register' button
+[2023-01-28 22:40:30,176] Register - Step 11: Verify register success message is displayed
+[2023-01-28 22:40:30,274] Login - Step 01: Navigate to 'Login' page
+[2023-01-28 22:40:31,283] Login - Step 02:  Input to 'Email' textbox with value is: 'abc62498@mail.com'
+[2023-01-28 22:40:31,407] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-28 22:40:31,524] Login - Step 04: Click to 'Login' button
+[2023-01-28 22:40:32,232] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-28 22:40:32,286] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-28 22:40:32,708] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-28 22:40:32,771] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-28 22:40:33,204] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-28 22:40:33,556] OS name = Windows 11
+[2023-01-28 22:40:33,556] Driver instance name = chromedriver: chrome on windows (fd6635f8e69728a3f87ee0fe0f3b96f6)
+[2023-01-28 22:42:51,104] Register - Step 02: Choose 'Female' radio button
+[2023-01-28 22:42:51,371] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-28 22:42:51,459] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-28 22:42:51,543] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-28 22:42:52,434] Register - Step 06:  Input to 'Email' textbox with value is: 'abc17693@mail.com'
+[2023-01-28 22:42:52,519] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-28 22:42:52,559] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-28 22:42:52,726] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-28 22:42:52,801] Register - Step 10: Click to 'Register' button
+[2023-01-28 22:42:53,916] Register - Step 11: Verify register success message is displayed
+[2023-01-28 22:42:54,024] Login - Step 01: Navigate to 'Login' page
+[2023-01-28 22:42:55,228] Login - Step 02:  Input to 'Email' textbox with value is: 'abc17693@mail.com'
+[2023-01-28 22:42:55,318] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-28 22:42:55,395] Login - Step 04: Click to 'Login' button
+[2023-01-28 22:42:57,228] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-28 22:42:57,291] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-28 22:42:57,916] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-28 22:42:57,986] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-28 22:42:58,618] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-28 22:42:58,828] OS name = Windows 11
+[2023-01-28 22:42:58,828] Driver instance name = firefoxdriver: firefox on windows (9a694274-01a8-45eb-8f87-be2282b11da7)
+[2023-01-29 17:31:10,485] Register - Step 01: Navigate to 'Register' page
+[2023-01-29 17:31:11,592] Register - Step 02: Choose 'Female' radio button
+[2023-01-29 17:31:11,674] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-29 17:31:11,793] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-29 17:31:11,917] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-29 17:31:12,259] Register - Step 06:  Input to 'Email' textbox with value is: 'abc13703@mail.com'
+[2023-01-29 17:31:12,391] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-29 17:31:12,438] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-29 17:31:12,551] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-29 17:31:12,665] Register - Step 10: Click to 'Register' button
+[2023-01-29 17:31:13,342] Register - Step 11: Verify register success message is displayed
+[2023-01-29 17:31:13,442] Login - Step 01: Navigate to 'Login' page
+[2023-01-29 17:31:14,182] Login - Step 02:  Input to 'Email' textbox with value is: 'abc13703@mail.com'
+[2023-01-29 17:31:14,299] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-29 17:31:14,418] Login - Step 04: Click to 'Login' button
+[2023-01-29 17:31:15,043] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-29 17:31:15,105] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-29 17:31:15,468] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-29 17:31:15,527] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-29 17:31:15,888] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-29 17:31:15,942] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-29 17:31:16,002] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-29 17:31:16,064] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-29 17:31:16,127] OS name = Windows 11
+[2023-01-29 17:31:16,127] Driver instance name = chromedriver: chrome on windows (a0d6a7c603e28ebafa2fe27478a4f7c2)
+[2023-01-29 17:34:37,251] Register - Step 01: Navigate to 'Register' page
+[2023-01-29 22:18:18,858] Register - Step 01: Navigate to 'Register' page
+[2023-01-29 22:18:19,983] Register - Step 02: Choose 'Female' radio button
+[2023-01-29 22:18:20,269] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-29 22:18:20,360] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-29 22:18:20,444] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-29 22:18:21,326] Register - Step 06:  Input to 'Email' textbox with value is: 'abc45852@mail.com'
+[2023-01-29 22:18:21,409] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-29 22:18:21,448] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-29 22:18:21,533] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-29 22:18:21,609] Register - Step 10: Click to 'Register' button
+[2023-01-29 22:18:22,313] Register - Step 11: Verify register success message is displayed
+[2023-01-29 22:18:22,423] Login - Step 01: Navigate to 'Login' page
+[2023-01-29 22:18:23,184] Login - Step 02:  Input to 'Email' textbox with value is: 'abc45852@mail.com'
+[2023-01-29 22:18:23,277] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-29 22:18:23,355] Login - Step 04: Click to 'Login' button
+[2023-01-29 22:18:24,072] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-29 22:18:24,131] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-29 22:18:24,521] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-29 22:18:24,586] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-29 22:18:24,938] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-29 22:18:24,998] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-29 22:18:25,057] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-29 22:18:25,120] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-29 22:18:25,183] OS name = Windows 11
+[2023-01-29 22:18:25,184] Driver instance name = firefoxdriver: firefox on windows (620d0968-d8d7-47b8-a2ad-d4a6a24972e9)
+[2023-01-29 22:24:32,425] OS name = Windows 11
+[2023-01-29 22:24:32,426] 
+[2023-01-29 22:28:55,899] OS name = Windows 11
+[2023-01-29 22:28:55,899] 
+[2023-01-29 22:35:34,055] Register - Step 01: Navigate to 'Register' page
+[2023-01-29 22:35:35,722] Register - Step 02: Choose 'Female' radio button
+[2023-01-29 22:35:36,004] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-29 22:35:36,095] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-29 22:35:36,181] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-29 22:35:37,065] Register - Step 06:  Input to 'Email' textbox with value is: 'abc66747@mail.com'
+[2023-01-29 22:35:37,151] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-29 22:35:37,193] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-29 22:35:37,277] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-29 22:35:37,351] Register - Step 10: Click to 'Register' button
+[2023-01-29 22:35:38,163] Register - Step 11: Verify register success message is displayed
+[2023-01-29 22:35:38,263] Login - Step 01: Navigate to 'Login' page
+[2023-01-29 22:35:39,162] Login - Step 02:  Input to 'Email' textbox with value is: 'abc66747@mail.com'
+[2023-01-29 22:35:39,241] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-29 22:35:39,316] Login - Step 04: Click to 'Login' button
+[2023-01-29 22:35:40,116] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-29 22:35:40,176] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-29 22:35:40,643] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-29 22:35:40,710] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-29 22:35:41,127] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-29 22:35:41,191] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-29 22:35:41,266] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-29 22:35:41,359] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-29 22:35:41,423] OS name = Windows 11
+[2023-01-29 22:35:41,423] Driver instance name = firefoxdriver: firefox on windows (9f0db139-5319-40a4-95e2-0486bc4ffc9e)
+[2023-01-29 22:36:31,304] Register - Step 01: Navigate to 'Register' page
+[2023-01-29 22:36:33,179] Register - Step 02: Choose 'Female' radio button
+[2023-01-29 22:36:33,451] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-29 22:36:33,535] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-29 22:36:33,612] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-29 22:36:34,496] Register - Step 06:  Input to 'Email' textbox with value is: 'abc3050@mail.com'
+[2023-01-29 22:36:34,578] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-29 22:36:34,620] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-29 22:36:34,704] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-29 22:36:34,781] Register - Step 10: Click to 'Register' button
+[2023-01-29 22:36:35,606] Register - Step 11: Verify register success message is displayed
+[2023-01-29 22:36:35,697] Login - Step 01: Navigate to 'Login' page
+[2023-01-29 22:36:37,011] Login - Step 02:  Input to 'Email' textbox with value is: 'abc3050@mail.com'
+[2023-01-29 22:36:37,097] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-29 22:36:37,174] Login - Step 04: Click to 'Login' button
+[2023-01-29 22:36:37,997] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-29 22:36:38,065] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-29 22:36:38,490] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-29 22:36:38,556] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-29 22:36:39,614] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-29 22:36:39,676] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-29 22:36:39,735] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-29 22:36:39,798] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-29 22:36:39,865] OS name = Windows 11
+[2023-01-29 22:36:39,865] Driver instance name = firefoxdriver: firefox on windows (46015dbd-b76a-4f07-812d-c83ceecabfa1)
+[2023-01-29 22:40:41,092] OS name = Windows 11
+[2023-01-29 22:40:41,093] Driver instance name = firefoxdriver: firefox on windows (b80a2db9-7bfc-4c51-8582-db7c10c6af82)
+[2023-01-29 22:42:26,829] Register - Step 01: Navigate to 'Register' page
+[2023-01-29 22:42:28,034] Register - Step 02: Choose 'Female' radio button
+[2023-01-29 22:42:28,305] Register - Step 03: Input to 'Firstname' textbox with value is: 'automation'
+[2023-01-29 22:42:28,391] Register - Step 04:  Input to 'Lastname' textbox with value is: 'test'
+[2023-01-29 22:42:28,467] Register - Step 05:  Select 'Date Of Birth' with value is: '14January1988'
+[2023-01-29 22:42:29,354] Register - Step 06:  Input to 'Email' textbox with value is: 'abc47105@mail.com'
+[2023-01-29 22:42:29,436] Register - Step 07:  Check to 'Newsletter' checkbox
+[2023-01-29 22:42:29,476] Register - Step 08:  Input to 'Password' textbox with value is: '123456'
+[2023-01-29 22:42:29,560] Register - Step 09:  Input to 'Confirm Password' textbox with value is: '123456'
+[2023-01-29 22:42:29,639] Register - Step 10: Click to 'Register' button
+[2023-01-29 22:42:30,317] Register - Step 11: Verify register success message is displayed
+[2023-01-29 22:42:30,421] Login - Step 01: Navigate to 'Login' page
+[2023-01-29 22:42:31,169] Login - Step 02:  Input to 'Email' textbox with value is: 'abc47105@mail.com'
+[2023-01-29 22:42:31,250] Login - Step 03:  Input to 'Password' textbox with value is: '123456'
+[2023-01-29 22:42:31,326] Login - Step 04: Click to 'Login' button
+[2023-01-29 22:42:31,946] Login - Step 05: Verify 'My Account' link is displayed
+[2023-01-29 22:42:32,010] Login - Step 06: Navigate to 'Customer Info' page
+[2023-01-29 22:42:32,372] Login - Step 07: Verify 'Customer Info' page is displayed
+[2023-01-29 22:42:32,435] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-01-29 22:42:32,793] My_Account - Step 02: Verify 'Customer Info' page is displayed
+[2023-01-29 22:42:32,854] My_Account - Step 03: Verify registered 'First Name' value is displayed
+[2023-01-29 22:42:32,914] My_Account - Step 04: Verify registered 'Last Name' value is displayed
+[2023-01-29 22:42:32,975] My_Account - Step 05: Verify registered 'Email' value is displayed
+[2023-01-29 22:42:33,041] OS name = Windows 11
+[2023-01-29 22:42:33,041] Driver instance name = firefoxdriver: firefox on windows (06b73199-7c65-4eaa-9190-1d46acdc56f1)
+[2023-02-18 15:32:16,174] OS name = Windows 11
+[2023-02-18 15:32:16,175] 
+[2023-02-18 15:36:15,981] Login - Step 01: Navigate to 'Login' page
+[2023-02-18 15:36:15,987] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-02-18 15:36:36,301] OS name = Windows 11
+[2023-02-18 15:36:36,301] Driver instance name = chromedriver: chrome on windows (01a08a1afc44c6595197790399aa5468)
+[2023-02-18 15:36:36,322] disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=110.0.5481.104)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MSI', ip: '192.168.101.106', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.104, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\FELIX\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57876}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 01a08a1afc44c6595197790399aa5468
+[2023-02-18 15:38:37,489] Login - Step 01: Navigate to 'Login' page
+[2023-02-18 15:38:37,494] MyAccount - Step 01: Navigate to 'Customer Info' page
+[2023-02-18 15:39:07,535] OS name = Windows 11
+[2023-02-18 15:39:07,535] Driver instance name = chromedriver: chrome on windows (2cccc3937b16cda8e3f451ca802ea427)
